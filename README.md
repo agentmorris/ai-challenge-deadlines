@@ -10,6 +10,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>Dec., 2019</sub> | <sub>**Jan. 22, 2020**</sub> | <sub>AI for Earth / DrivenData wildlife identification challenge</sub> | <sub>[wildlife20](https://www.drivendata.org/competitions/59/camera-trap-serengeti/)</sub> |  |
 | <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Perfect Half Million Beauty Product Image Recognition Challenge</sub> | <sub>[perfect19](https://challenge2019.perfectcorp.com/)</sub> | <a href="https://hub.docker.com/u/aimeetsbeauty">:scroll:</a> |
 | <sub>Fev., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Grand Challenge on Medical Multimedia</sub> | <sub>[biomedia19 :moneybag:](https://github.com/kelkalot/biomedia-2019/wiki)</sub> | <a href="https://github.com/kelkalot/biomedia-2019">:scroll:</a> |
 | <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19:MediaEval Tasks </sub> | <sub>[mediaeval19 :moneybag:](http://www.multimediaeval.org/mediaeval2019/)</sub> | <a href="http://ceur-ws.org/Vol-2283/">:scroll:</a> |
